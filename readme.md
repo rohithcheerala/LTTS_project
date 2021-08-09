@@ -9,6 +9,8 @@ Focus of this project is to develop an web application which offers course of ac
 
 Total file size is 510MB
 
+For full project visit this link https://drive.google.com/file/d/1qNsmvzxzE3FEaDetQaO1uCZdahSm_iDk/view?usp=sharing
+Github only Accept files below 25MB. Sorry for the inconvenience.
 
 |**Pages**|**Lines**|
 | :-: | :-: |
