@@ -1,0 +1,204 @@
+body
+{
+background-color: black;
+}
+.div1
+{
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    color:white;
+    font-size: 40px;
+    display: flex;
+}
+.in
+{
+    color:yellow;
+}
+.div2
+{
+    position: relative;
+    color:white;
+    font-size: 90px;
+    font-family: 'Karla', sans-serif;
+    display: flex;
+}
+.div3
+{
+    position: relative;
+    color:white;
+    font-size: 90px;
+    font-family: 'Karla', sans-serif;
+    display: flex;
+}
+.name2, .password2
+{
+    border:none;
+    color:white;
+    position: relative;
+    left:80px;
+    background: none;
+    border-color: black;
+   border-bottom: solid;
+   border-color: white;
+   outline: none;
+   
+}
+.name1,.password1
+{
+    position: relative;
+    color:white;
+   
+   
+    border-bottom: white;
+    border-color: black;
+}
+
+.button
+{
+    background: none;
+    color:white;
+    font-size: 70px;
+   
+    position: relative;
+    border:none;
+}
+.div1,.div2, .div3, .button     
+{   
+    top:150px;
+    left:200px;
+    width:450px;
+}
+.div2, .div3, .button
+{
+    font-family: 'Karla', sans-serif;
+    font-size: 19px;
+    top:140px;
+}
+.button
+{
+    top:180px;
+    left:5px;
+}
+.name2, .password2
+{
+    left:10px;
+}
+.password1
+{
+    top:20px;
+}
+.name2
+{
+    top:-5px;
+    left:32px;
+}
+.password2
+{
+    top:15px;
+    left:35px;
+}
+.div1,.div2, .div3, .button     
+{
+    top:100px;
+    left:70px
+}
+.button
+{
+    top:170px;
+    left:-123px;
+}
+.div4
+{
+    position: relative;
+    height:790px;
+    width: 1200px;
+    overflow: hidden;
+    top:-300px;
+    left:450px;
+}
+.video1
+{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    filter: gray;
+    filter: grayscale(100%);
+    position: relative;
+    top:-100px;
+}
+body
+{
+overflow: hidden;
+}
+.logo
+{
+    font-family: 'Roboto', sans-serif;
+    position:absolute;
+    top:45px;
+    left:520px;
+}
+.logo1
+{
+    position: relative;
+    font-size: 150px;
+    color:white;
+}
+.logo2
+{
+    position: relative;
+    top:-165px;
+    font-size: 150px;
+    color: yellow;
+}
+.button
+{
+    width:68px;
+    left:61px;
+}
+.nav11
+ {
+            position:absolute;
+            display: flex;
+            top:36px;
+            left:460px;
+           
+            color:white;
+            z-index: 5;
+ }
+        .button11, .button22, .button33, .button44, .button55,.button1
+   {
+            position:absolute;
+            border:none;
+            background: none;
+            font-size:20px;
+            color:white;
+            text-decoration: none;
+            font-family: 'Karla', sans-serif;
+            padding-right:50px;
+            padding-left:50px;
+            width:70px;
+   }
+   .button1
+   {
+    left:170px;
+   }
+   .button22
+   {
+       left:320px;
+   }
+   .button33
+   {
+       left:450px;
+   }
+   .button44
+   {
+       left:620px;
+   }
+   .button55
+   {
+       left:720px;
+       width:100px;
+   }
+   .button{
+       text-decoration:none;
+   }
