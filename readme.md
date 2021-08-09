@@ -12,6 +12,8 @@ Total file size is 510MB
 For full project visit this link https://drive.google.com/file/d/1qNsmvzxzE3FEaDetQaO1uCZdahSm_iDk/view?usp=sharing
 Github only Accept files below 25MB. Sorry for the inconvenience.
 
+I Uploaded a Demo video on youtube  https://youtu.be/jsiEcCL8d1s , which explains about working of this STREET'S KITCHEN website.
+
 |**Pages**|**Lines**|
 | :-: | :-: |
 |**Index.html**|<p>**Line: 1 to 1370 (CSS)**</p><p>**Line: 1372 to 1542 (HTML)**</p><p>**Line: 1543 to 3452 (Java Script)**</p><p></p>|
