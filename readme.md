@@ -1,5 +1,5 @@
 ﻿
-##Introduction##
+## Introduction ##
 
 Street’s kitchen is a eatery project build on HTML, JAVASCRIPT, CSS. This project is involved with building a flexible, open-ended design for eatery management system that integrates well-known design patterns and a coherent design style using UML diagrams. Our eatery Management System consists of two users’ customers and admin.	
 
